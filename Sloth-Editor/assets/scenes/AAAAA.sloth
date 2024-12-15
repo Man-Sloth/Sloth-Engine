@@ -1,0 +1,23 @@
+Scene: Untitled
+CellSize:
+  - Cell: [2.55999994, 1.27999997]
+LockedGrids:
+  - Locked: true
+Layers:
+  - Layer: Layer 0
+    Buffer: Default
+Entities:
+  - Entity: 10103401704233578848
+    TagComponent:
+      Tag: HardestGrass
+    TransformComponent:
+      Translation: [1.27999997, 0.639999986, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+      Snap: true
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets/Sprites\1 - Copy.png
+      TilingFactor: 1
+      Layer: 0
+      UseCenterPoint: true

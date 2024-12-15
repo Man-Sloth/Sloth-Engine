@@ -1,0 +1,398 @@
+Scene: Untitled
+Entities:
+  - Entity: 6227446149613180532
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [3, 0.400000006, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 7937152274609351040
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [2.5, 0, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 5821258588257519801
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [2, -0.400000006, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 3007970737674917099
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [1.5, -0.800000012, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 18192840841928473061
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-0, -2, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 9064783303518387144
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [0.5, -1.60000002, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 6253205673681208854
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [0, -1.20000005, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 5507303316064311532
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [1, -1.20000005, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 15304183825262892262
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-0.5, -0.800000012, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 8030780909124548472
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [2.5, 0.800000012, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 17805268211094705915
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [2, 0.400000006, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 253682095317887151
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [0.5, -0.800000012, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 8345311016705976827
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [1, -0.400000006, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 7235335178973586982
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [1.5, 0, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 6227120251038831459
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [2, 1.20000005, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 6231008824133003790
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [0.5, 0, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 7167427104369479322
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-2, -1.20000005, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 16077960039727966476
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-1, -1.20000005, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 16369366517999208738
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-1.5, -0.800000012, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 4827998384044114013
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-0, -0.400000006, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 4247395786270626871
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [1, 0.400000006, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 17914457307441319367
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [1.5, 0.800000012, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 6619641551003805028
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [1, 1.20000005, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 14497297121455667802
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [0.5, 0.800000012, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 12912515337861001226
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-0, 0.400000006, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 7771523134534516160
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-0.5, 0, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 7649819926403105189
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-1, -0.400000006, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 376371190933064025
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-2, -0.400000006, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 12416110647642106295
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-2.5, -0, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 12023302090029417682
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-1.5, 0, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 3152419730117664334
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-0, 1.20000005, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 13994121901819012412
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-2, 0.400000006, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 10243090854669040219
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-1, 0.400000006, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 12036414546621454367
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-1.5, 0.800000012, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 4782806380967987741
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-0.5, 0.800000012, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1
+  - Entity: 720671842016002541
+    TagComponent:
+      Tag: Tile
+    TransformComponent:
+      Translation: [-1, 1.20000005, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets\Temp Sprites\Grass1.png
+      TilingFactor: 1

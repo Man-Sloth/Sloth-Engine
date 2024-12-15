@@ -1,0 +1,25 @@
+[submodule "Sloth/vendor/spdlog"]
+	path = Sloth/vendor/spdlog
+	url = ../../gabime/spdlog.git
+	branch = v1.x
+[submodule "Sloth/vendor/GLFW"]
+	path = Sloth/vendor/GLFW
+	url = ../../TheCherno/glfw.git
+	branch = master
+[submodule "Sloth/vendor/imgui"]
+	path = Sloth/vendor/imgui
+	url = ../../TheCherno/imgui.git
+	branch = docking
+[submodule "Sloth/vendor/glm"]
+	path = Sloth/vendor/glm
+	url = ../../g-truc/glm.git
+	branch = master
+[submodule "Sloth/vendor/yaml-cpp"]
+	path = Sloth/vendor/yaml-cpp
+	url = https://github.com/thecherno/yaml-cpp
+[submodule "Sloth/vendor/ImGuizmo"]
+	path = Sloth/vendor/ImGuizmo
+	url = https://github.com/thecherno/imguizmo
+[submodule "Sloth/vendor/Box2D"]
+	path = Sloth/vendor/Box2D
+	url = https://github.com/thecherno/box2d

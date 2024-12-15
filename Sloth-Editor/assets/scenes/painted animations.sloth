@@ -1,0 +1,185 @@
+Scene: Untitled
+CellSize:
+  - Cell: [2.55999994, 1.27999997]
+LockedGrids:
+  - Locked: true
+Layers:
+  - Layer: Layer 0
+    Buffer: Default
+Entities:
+  - Entity: 15606199688699806443
+    TagComponent:
+      Tag: Entity
+    TransformComponent:
+      Translation: [-5.11999989, 1.27999997, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+      Snap: true
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets/Sprites\Sprites\Creatures\Giant Spider\Walking\SE\0012.png
+      TilingFactor: 1
+      Layer: 0
+      UseCenterPoint: true
+    AnimatorComponent:
+      AnimatorPath: ""
+  - Entity: 7398917917238121906
+    TagComponent:
+      Tag: Entity
+    TransformComponent:
+      Translation: [-2.55999994, 5.11999989, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+      Snap: true
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets/Sprites\Sprites\Player\Human\S\0002.png
+      TilingFactor: 1
+      Layer: 0
+      UseCenterPoint: true
+    AnimatorComponent:
+      AnimatorPath: ""
+  - Entity: 10521335769882401094
+    TagComponent:
+      Tag: Entity
+    TransformComponent:
+      Translation: [-1.27999997, 4.48000002, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+      Snap: true
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets/Sprites\Sprites\Player\Human\S\0002.png
+      TilingFactor: 1
+      Layer: 0
+      UseCenterPoint: true
+    AnimatorComponent:
+      AnimatorPath: ""
+  - Entity: 16490603592680404501
+    TagComponent:
+      Tag: Entity
+    TransformComponent:
+      Translation: [-3.83999991, 3.19999981, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+      Snap: true
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets/Sprites\Sprites\Player\Human\S\0002.png
+      TilingFactor: 1
+      Layer: 0
+      UseCenterPoint: true
+    AnimatorComponent:
+      AnimatorPath: ""
+  - Entity: 14883844408110802304
+    TagComponent:
+      Tag: Entity
+    TransformComponent:
+      Translation: [0, 3.83999991, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+      Snap: true
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets/Sprites\Sprites\Player\Human\S\0002.png
+      TilingFactor: 1
+      Layer: 0
+      UseCenterPoint: true
+    AnimatorComponent:
+      AnimatorPath: ""
+  - Entity: 15262589399961480644
+    TagComponent:
+      Tag: Entity
+    TransformComponent:
+      Translation: [-0, 1.27999997, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+      Snap: true
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets/Sprites\Temp Sprites\FlamingSwordOfMagradon.png
+      TilingFactor: 1
+      Layer: 0
+      UseCenterPoint: true
+    AnimatorComponent:
+      AnimatorPath: ""
+  - Entity: 18370157280344808890
+    TagComponent:
+      Tag: Entity
+    TransformComponent:
+      Translation: [2.55999994, 1.27999997, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+      Snap: true
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets/Sprites\1 - Copy.png
+      TilingFactor: 1
+      Layer: 0
+      UseCenterPoint: true
+    AnimatorComponent:
+      AnimatorPath: ""
+  - Entity: 18198560759790925323
+    TagComponent:
+      Tag: Entity
+    TransformComponent:
+      Translation: [-1.27999997, 1.91999996, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+      Snap: true
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets/Sprites\Sprites\World Objects\Fires\Campfire\0029.png
+      TilingFactor: 1
+      Layer: 0
+      UseCenterPoint: true
+    AnimatorComponent:
+      AnimatorPath: ""
+  - Entity: 14936177687489082229
+    TagComponent:
+      Tag: Entity
+    TransformComponent:
+      Translation: [0, -1.27999997, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+      Snap: true
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets/Sprites\Sprites\World Objects\Save Portal - Smalll\0184-min.png
+      TilingFactor: 1
+      Layer: 0
+      UseCenterPoint: true
+    AnimatorComponent:
+      AnimatorPath: ""
+  - Entity: 1608699361681244702
+    TagComponent:
+      Tag: Entity
+    TransformComponent:
+      Translation: [1.27999997, 0.639999986, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+      Snap: true
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets/Sprites\Sprites\Creatures\Skeleton\Walking\SW\0021.png
+      TilingFactor: 1
+      Layer: 0
+      UseCenterPoint: true
+    AnimatorComponent:
+      AnimatorPath: ""
+  - Entity: 10420371447572010810
+    TagComponent:
+      Tag: Entity
+    TransformComponent:
+      Translation: [-1.27999997, 0.639999986, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+      Snap: true
+    SpriteRendererComponent:
+      Color: [1, 1, 1, 1]
+      TexturePath: assets/Sprites\Sprites\Creatures\Giant Spider\Walking\SE\0013.png
+      TilingFactor: 1
+      Layer: 0
+      UseCenterPoint: true
+    AnimatorComponent:
+      AnimatorPath: ""
