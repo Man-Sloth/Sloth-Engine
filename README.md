@@ -13,5 +13,5 @@ Easily create animations in seconds
 
 ![Recording 2024-12-15 at 08 01 08](https://github.com/user-attachments/assets/ae4dca96-3c47-41e2-b4c2-49d9b67576a3)
 
-Easily create animations in seconds and quickly tile them
+Quickly tile your new animations
 ![Recording 2024-12-15 at 08 07 32](https://github.com/user-attachments/assets/620cbe7c-edd2-4829-b2e4-ffeb1532c9f0)
