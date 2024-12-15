@@ -2,16 +2,22 @@ The Sloth Engine is a 2D video game engine that I'm currently building. I enjoye
 
 It will have full Entitys to be able to manipulate in the scene how ever you want with transforms, sprites, hitboxes, etc. Anything you would need in a 2D game engine.
 
+
 Easily tile images
+
 ![Recording 2024-12-15 at 07 55 32](https://github.com/user-attachments/assets/d8596400-1f03-43ed-a3d6-1f5b5155bdd5)
+
 
 Use a grid for more accurate modifications
 
 ![Recording 2024-12-15 at 07 57 36](https://github.com/user-attachments/assets/e9c53283-b49e-42a6-ae91-45379dc54075)
 
+
 Easily create animations in seconds
 
 ![Recording 2024-12-15 at 08 01 08](https://github.com/user-attachments/assets/ae4dca96-3c47-41e2-b4c2-49d9b67576a3)
 
+
 Quickly tile your new animations
+
 ![Recording 2024-12-15 at 08 07 32](https://github.com/user-attachments/assets/620cbe7c-edd2-4829-b2e4-ffeb1532c9f0)
