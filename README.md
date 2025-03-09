@@ -1,6 +1,6 @@
 The Sloth Engine is a 2D video game engine that I'm currently building. I enjoyed using Unity, so I thought I would deepen my understanding of what goes into an engine by creating my own that I can then use to create any 2D game I would like. 
 
-It will have full Entitys to be able to manipulate in the scene how ever you want with transforms, sprites, hitboxes, etc. Anything you would need in a 2D game engine.
+It currently has full Entitys to be able to manipulate in the scene how ever you want with transforms, sprites, hitboxes, etc. Saving and loading maps is easy as a click of a button. It's been very handy for my artist to mock up levels and animations to use in our game, Vanthrok.
 
 
 Easily tile images
